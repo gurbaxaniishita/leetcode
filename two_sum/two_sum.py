@@ -1,6 +1,6 @@
 """
 LeetCode 1: Two Sum
-Author: Your Name
+Author: Ishita Gurbaxani
 Approach: Brute-force (learning) / Hashmap (optimized)
 """
 
